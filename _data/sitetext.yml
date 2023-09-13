@@ -22,10 +22,10 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Machine Learning"
-        desc: "Machine learning is revolutionizing the way we interact with digital products. I'm fascinated by its potential to transform data into actionable insights and enhance user experiences."
+        desc: "Machine learning is changing the way we interact with digital products. I'm interested in its potential to transform data into actionable insights and enhance user experiences."
         icon: fas fa-brain #find more at https://fontawesome.com/icons
       - title: "User Centric Design"
-        desc: "Design isn't just about aesthetics; it's about creating solutions that resonate with users. I believe in the power of empathic design, this is the driving force in product innovation."
+        desc: "Design isn't just about aesthetics; it's about creating solutions that resonate with users. I believe the power of empathic design is the driving force in product innovation."
         icon: fas fa-user
       - title: "Business Analysis"
         desc: "Understanding the business side of technology is essential for sustainable growth. Business analysis bridges the gap between technical solutions and strategic objectives."
@@ -33,14 +33,14 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Stay tuned, projects coming soon!"
+    text: "Stay tuned, more mini projects coming soon"
     section: portfolio
     closebutton: "Close Project"
 
   team:
     title: "About"
     text: "Get to know a little bit about me"
-    subtext: I'm a business analyst located in Tyneside, with experience in digital transformation projects for organisations in the property, finance, and most recently pharmaceutical industries.
+    subtext: I'm a Business Analyst based in Tyneside, with experience in digital transformation projects for organisations in the property, finance, and most recently pharmaceutical industries.
     section: team
     people:
       - name: "Charlie Williams"
