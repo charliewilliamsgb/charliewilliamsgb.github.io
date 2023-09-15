@@ -1,7 +1,7 @@
 ---
 title: SQL Data Analysis Project
 subtitle: Insights from Airbnb dataset
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/02-full.png
 alt: SQL
 caption:
   title: SQL Data Analysis Project
