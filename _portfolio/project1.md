@@ -2,7 +2,7 @@
 title: Web Scraping Project
 subtitle: Daily news digest emailer
 image: assets/img/portfolio/01-full.jpg
-alt: Hartlepool United
+alt: Web scraping
 caption:
   title: Web Scraping Project
   subtitle: Daily news digest emailer

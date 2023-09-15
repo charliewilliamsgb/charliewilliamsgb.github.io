@@ -40,7 +40,7 @@ en: &DEFAULT_EN
   team:
     title: "About"
     text: "Get to know a little bit about me"
-    subtext: I'm a Business Analyst based in Tyneside, with experience in digital transformation projects for organisations in the property, finance, and most recently pharmaceutical industries.
+    subtext: I'm a Business Analyst based in Tyneside, with experience in digital transformation projects for organisations in the propert and finance industries.
     section: team
     people:
       - name: "Charlie Williams"
